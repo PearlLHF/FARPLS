@@ -1,0 +1,5 @@
+,U-val,alternative,p-val
+C2,214.5,two-sided,0.887
+C2.1,193.0,two-sided,0.4901
+C2.2,349.0,greater,0.0005
+C2.3,306.5,greater,0.0125

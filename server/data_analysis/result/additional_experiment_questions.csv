@@ -1,0 +1,14 @@
+,question,mean,std,min,max,25%,50%,75%
+informative,The auxiliary information provided by the system is informative.,5.9523809523809526,1.1169686869465265,2.0,7.0,6.0,6.0,7.0
+relevant,The auxiliary information provided by the system is relevant.,6.142857142857143,0.72702917999997,5.0,7.0,6.0,6.0,7.0
+criteria,The auxiliary information provided by the system is helpful for establishing preference criteria.,5.571428571428571,1.3989792196965818,2.0,7.0,5.0,6.0,7.0
+details,The auxiliary information provided by the system prevents me from observing more details in the videos.,3.857142857142857,2.1280440382124213,1.0,7.0,2.0,3.0,5.0
+comparing,The auxiliary information provided by the system is helpful for comparing the differences of the two videos.,6.0476190476190474,1.1169686869465265,3.0,7.0,6.0,6.0,7.0
+overwhelming,The auxiliary information provided by the system is overwhelming.,3.0952380952380953,1.4108423691100964,1.0,5.0,2.0,3.0,4.0
+distracting,The auxiliary information provided by the system is distracting.,2.761904761904762,1.3001831372834332,1.0,6.0,2.0,3.0,3.0
+DR1C1.1,How helpful is this design in facilitating familiarity with diverse situations and establishing criteria for comparison?,6.238095238095238,0.7003400534570262,5.0,7.0,6.0,6.0,7.0
+DR1C2.2,"How helpful is this design in improving your perception of the details of the trajectory, regardless of your level of robotics expertise?",6.238095238095238,0.768424485864545,4.0,7.0,6.0,6.0,7.0
+DR2C1.2,How helpful is this design in assisting your comprehension of each feature's range to determine the priority of your criteria?,5.619047619047619,1.499206139134658,2.0,7.0,5.0,6.0,7.0
+DR2C2,How helpful is this design in enhancing your understanding of this robot task and gaining access to more information?,5.904761904761905,0.9436504599035548,4.0,7.0,5.0,6.0,7.0
+DR3C3.1,How helpful is this design in decreasing the boredom of labelling preferences?,5.0476190476190474,1.4654757069358222,2.0,7.0,4.0,5.0,6.0
+DR3C3.5,How helpful is this design in increasing the reward of the preference labeling process?,5.0476190476190474,1.532194193834139,2.0,7.0,4.0,5.0,6.0

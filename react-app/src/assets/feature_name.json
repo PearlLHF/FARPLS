@@ -1,0 +1,18 @@
+{
+    "num_collisions": "Number of Collisions",
+    "avg_speed": "Average Speed",
+    "max_height_to_table": "Max Height to Table",
+    "min_distance_to_edge": "Min Distance to Edge",
+    "max_ee_force": "Max Gripper Force",
+    "reach_length": "Reaching Path Length",
+    "grasp_length": "Grasped Path Length",
+    "obj_path_length": "Object Path Length",
+    "total_time": "Total Time",
+    "pseudo_cost": "Approximate Power Usage",
+    "speed_smoothness": "Speed Smoothness",
+    "trajectory_smoothness": "Trajectory Smoothness",
+    "pick_up_point": "Pick Up Point",
+    "release_point": "Release Point",
+    "nearest_point_to_edge": "Nearest Point to Edge",
+    "highest_point": "Highest Point"
+  }

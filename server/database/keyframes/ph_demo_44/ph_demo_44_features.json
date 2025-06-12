@@ -1,0 +1,15 @@
+{
+    "num_collisions": 3,
+    "max_height_to_table": 0.24269046300705166,
+    "min_distance_to_edge": 0.07176761599290041,
+    "max_ee_force": 21.31821083251051,
+    "avg_speed": 0.41418052359656526,
+    "reach_length": 0.34415066705116515,
+    "grasp_length": 0.6849487530735128,
+    "obj_path_length": 0.8836676992411194,
+    "total_time": 6.05,
+    "pseudo_cost": 11.46042902160797,
+    "speed_smoothness": 0.36226548243745377,
+    "trajectory_smoothness": 0.11463552861231073,
+    "anomaly": "max_height_to_table"
+}

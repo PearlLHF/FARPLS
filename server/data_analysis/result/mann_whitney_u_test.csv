@@ -1,0 +1,18 @@
+,U-val,alternative,p-val,RBC,CLES,significant,question
+Consistency,321.5,greater,0.0046349471768261175,-0.4580498866213152,0.7290249433106576,True,Consistency
+Overconfidence,192.0,two-sided,0.4788830604148143,0.12925170068027214,0.43537414965986393,False,Overconfidence
+Cognitive Load,190.0,two-sided,0.4375141853748319,0.13832199546485258,0.4308390022675737,False,How mentally challenging was it for you to compare and specify your preference over the video pairs in general?
+Confidence,269.0,two-sided,0.2026669000781871,-0.21995464852607705,0.6099773242630385,False,How confident were you about your labels in general?
+C1,295.5,greater,0.02460250448019232,-0.34013605442176864,0.6700680272108843,True,I can easily establish comparison criteria in general.
+C1.1,307.5,greater,0.0127691417879184,-0.3945578231292517,0.6972789115646258,True,My comparison criteria can cover all the new situations seen in the later videos.
+C1.2,281.0,two-sided,0.11732952033176444,-0.2743764172335601,0.63718820861678,False,I am clear about the set of features I rely on to decide the priority of each criterion.
+C1.3,275.0,two-sided,0.153264397136216,-0.24716553287981857,0.6235827664399093,False,I am clear about the scope of each feature required to determine the priority of each criterion.
+C2,214.5,two-sided,0.8870376908103167,0.027210884353741527,0.48639455782312924,False,I feel that I may overlook some important details when viewing and comparing two trajectories.
+C2.1,193.0,two-sided,0.49012392137615013,0.12471655328798181,0.4376417233560091,False,My knowledge of this robot arm task affects the kind of details I pay attention to.
+C2.2,349.0,greater,0.0004527919816644275,-0.5827664399092971,0.7913832199546486,True,The system provides enough support for me to identify features that may be important to this robot arm task in practice.
+C2.3,306.5,greater,0.01250118863500435,-0.39002267573696137,0.6950113378684807,True,The system provides enough support for me to compare the differences between two videos.
+C3.1,256.0,two-sided,0.3642603513716869,-0.16099773242630389,0.5804988662131519,False,The preference labeling process is easy.
+C3.2,152.5,less,0.0419330968587689,0.308390022675737,0.6541950113378685,True,The preference labeling process is boring.
+C3.3,288.0,greater,0.04236021527650966,-0.30612244897959173,0.6530612244897959,True,I receive encouragement in the preference labeling process.
+C3.4,334.0,greater,0.0019384756722443453,-0.5147392290249433,0.7573696145124716,True,I receive feedback on my performance in the preference labeling process.
+C3.5,312.0,greater,0.010057844791020013,-0.41496598639455784,0.7074829931972789,True,I find the preference labeling process rewarding.

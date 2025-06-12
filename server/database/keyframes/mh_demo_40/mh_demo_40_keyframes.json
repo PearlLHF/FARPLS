@@ -1,0 +1,46 @@
+{
+    "collisions": [
+        [
+            [
+                2.25,
+                2.8000000000000003
+            ],
+            "/keyframes/mh_demo_40/mh_demo_40_collision_50_51.png"
+        ],
+        [
+            [
+                3.8,
+                4.3500000000000005
+            ],
+            "/keyframes/mh_demo_40/mh_demo_40_collision_81_82.png"
+        ]
+    ],
+    "highest_point": [
+        [
+            3.6,
+            4.1
+        ],
+        "/keyframes/mh_demo_40/mh_demo_40_highest_point.png"
+    ],
+    "nearest_point_to_edge": [
+        [
+            4.0,
+            4.5
+        ],
+        "/keyframes/mh_demo_40/mh_demo_40_nearest_point_to_back_edge.png"
+    ],
+    "pick_up_point": [
+        [
+            2.35,
+            2.85
+        ],
+        "/keyframes/mh_demo_40/mh_demo_40_pick_up_point.png"
+    ],
+    "release_point": [
+        [
+            3.6500000000000004,
+            4.15
+        ],
+        "/keyframes/mh_demo_40/mh_demo_40_release_point.png"
+    ]
+}

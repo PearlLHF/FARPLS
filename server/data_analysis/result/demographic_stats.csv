@@ -1,0 +1,13 @@
+,question,mean,std,min,max,25%,50%,75%
+Group,Group,1.5,0.5060608273474739,1.0,2.0,1.0,1.5,2.0
+Age,What is your age?,23.38095238095238,3.1696147411685884,19.0,40.0,22.0,23.0,24.0
+Data Labeling System,How familiar are you with data labeling / annotation systems?,2.1904761904761907,0.8621610748180847,1.0,4.0,2.0,2.0,3.0
+Robotics,How familiar are you with robotics?,2.0,0.7963330593811955,1.0,4.0,1.0,2.0,2.75
+Group_group1,Group,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Age_group1,What is your age?,23.714285714285715,4.267819784654187,19.0,40.0,22.0,23.0,23.0
+Data Labeling System_group1,How familiar are you with data labeling / annotation systems?,2.380952380952381,0.9206622874969125,1.0,4.0,2.0,2.0,3.0
+Robotics_group1,How familiar are you with robotics?,2.238095238095238,0.8890872794479686,1.0,4.0,2.0,2.0,3.0
+Group_group2,Group,2.0,0.0,2.0,2.0,2.0,2.0,2.0
+Age_group2,What is your age?,23.047619047619047,1.4654757069358222,19.0,25.0,23.0,23.0,24.0
+Data Labeling System_group2,How familiar are you with data labeling / annotation systems?,2.0,0.7745966692414834,1.0,3.0,1.0,2.0,3.0
+Robotics_group2,How familiar are you with robotics?,1.7619047619047619,0.6248809410409238,1.0,3.0,1.0,2.0,2.0

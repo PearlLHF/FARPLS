@@ -1,0 +1,19 @@
+{
+    "User ID":"Your User ID (U01 - U41 with odd number)",
+    "Cognitive Load":"How mentally challenging was it for you to compare and specify your preference over the video pairs in general?",
+    "Confidence":"How confident were you about your labels in general?",
+    "C1":"I can easily establish comparison criteria in general.",
+    "C1.1":"My comparison criteria can cover all the new situations seen in the later videos.",
+    "C1.2":"I am clear about the set of features I rely on to decide the priority of each criterion.",
+    "C1.3":"I am clear about the scope of each feature required to determine the priority of each criterion.",
+    "C2":"I feel that I may overlook some important details when viewing and comparing two trajectories.",
+    "C2.1":"My knowledge of this robot arm task affects the kind of details I pay attention to .",
+    "C2.2":"The system provides enough support for me to identify features that may be important to this robot arm task in practice.",
+    "C2.3":"The system provides enough support for me to compare the differences between two videos.",
+    "C3.1":"The preference labeling process is easy.",
+    "C3.2":"The preference labeling process is boring.",
+    "C3.3":"I receive encouragement in the preference labeling process.",
+    "C3.4":"I receive feedback on my performance in the preference labeling process.",
+    "C3.5":"I find the preference labeling process rewarding.",
+    "Comments":"Do you have any other comments and suggestions on our system?"
+}
