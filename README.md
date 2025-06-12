@@ -1,4 +1,6 @@
-# Feature-assisted Trajectory Preference Labeling System
+# FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers' Preference Elicitation
+System code for [FARPLS: A Feature-Augmented Robot Trajectory Preference Labeling System to Assist Human Labelers' Preference Elicitation](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/10.1145/3640543.3645145)
+
 ## Frontend
 @ Ujaan Das, @ Hanfang Lyu
 
