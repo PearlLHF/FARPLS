@@ -11,3 +11,5 @@ See [./react-app/README.md](./react-app/README.md) for instructions on how to bu
 
 See [./server/README.md###Usage](./server/README.md###Usage) for instructions on how to run the backend.
 
+Dataset see https://github.com/PearlLHF/robosuite, modified based on [robosuite](https://github.com/ARISE-Initiative/robosuite)
+
